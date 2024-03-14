@@ -1,0 +1,5 @@
+helm repo add jenkinsci https://charts.jenkins.io/
+
+helm install   my-jenkins jenkinsci/jenkins --version 5.1.0 -f values.yaml -n jenkins-stable
+
+helm install my-jenkins jenkins/jenkins
