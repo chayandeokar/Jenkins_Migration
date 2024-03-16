@@ -1,0 +1,1 @@
+scp -r motor1/ multi-gpu-01@192.168.1.251:/home/multi-gpu-01/motor
