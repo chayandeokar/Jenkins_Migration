@@ -20,3 +20,9 @@ stderr: fatal: not in a git directory
 Finished: FAILURE
 
 
+Answer : 
+-- checked branch
+-- created new credentials
+-- created new jenkins
+-- created new pipeline
+-- crossed check with old pipeline
